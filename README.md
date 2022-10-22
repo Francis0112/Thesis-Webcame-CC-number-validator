@@ -4,3 +4,6 @@ python module used.
 -Kivy kivymd Framework
 -OpenCv
 -Pyfirmata
+
+Presentation of our Thesis Software
+https://youtu.be/poIrYTfCFNA
